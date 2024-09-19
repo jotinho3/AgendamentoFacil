@@ -289,7 +289,7 @@ function App() {
           </div>
          
           <motion.div
-            className="bg-white p-4 px-12 flex border-2 flex-col gap-16 items-center rounded-xl shadow-lg mb-4 md:mb-0"
+            className="bg-white p-4 px-18 flex border-2 flex-col gap-16 items-center rounded-xl shadow-lg mb-4 md:mb-0"
             initial={{ opacity: 0, y: 50 }}
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.6 }}
