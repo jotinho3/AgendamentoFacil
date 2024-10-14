@@ -48,7 +48,7 @@ function App() {
 
   const images = [
     "./pexels-thgusstavo-1813272.jpg",
-    "./pexels-shvetsa-3845981.jpg", // Replace with your second image path
+    "./pexelsshev.jpg", // Replace with your second image path
     "./pexels-alex-green-5699431.jpg", // Replace with your third image path
   ];
 
